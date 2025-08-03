@@ -6,7 +6,7 @@
 
 ### Gallery
 
-![Photo 1](thumbs/photo1.jpg)[🔎](images/photo1.jpg) ![Photo 2](thumbs/photo2.jpg)[🔎](images/photo2.jpg)
+![Photo 1](thumbs/photo1.jpg)[🔎](images/photo1.jpg) ![Photo 2](thumbs/photo2.jpg)[🔎](images/photo2.jpg) ![Photo 3](thumbs/photo3.jpg)[🔎](images/photo3.jpg)
 
 
 ## Description and Instructions
@@ -20,13 +20,24 @@ This opener will only cause minor deformation of the cap, allowing to re-seal th
 
 ### Printing
 
-You can print this in any material, but some are more suited for this application than others. The best material that can be easily printed is PETG, because it is tough and abrasion-resistant. Plain PLA may also work, but risks wearing out and also has a tendency to become brittle over time. A tough PLA variant would be preferred over regular PLA.
+It is very important to print this with enough perimeters for maximum strength. The holes in the model are not just there for looks, they improve strength at the most important locations, but only when surrounded by a sufficient number of perimeters such that they touch each other. I printed this with **6 perimeters** of 0.4 mm width. If you print it this way, then infill in the rest of the model is not very important (I used a 30% honeycomb infill).
+
+If you do want to print this 100% solid, then instead of using a 100% infill, it is better to just set the number of perimeters to 20 such that the print consists entirely of perimeters.
+
+You can print this in any material, but some are more suited for this application than others. The best material that can be easily printed is **PETG,** because it is tough and abrasion-resistant. Plain PLA may also work, but risks wearing out and also has a tendency to become brittle over time. A tough PLA variant would be preferred over regular PLA.
 
 Recommended parameters:
 * 0.2 mm layers;
 * enough perimeters such that walls are more than 2 mm thick;
 * a tough filament.
 
-It is very important to print this with enough perimeters for maximum strength. The holes in the model are not just there for looks, they improve strength at the most important locations, but only when surrounded by a sufficient number of perimeters such that they touch each other. I printed this with **6 perimeters** of 0.4 mm width. If you print it this way, then infill in the rest of the model is not very important (I used a 30% honeycomb infill).
 
-If you do want to print this 100% solid, then instead of using a 100% infill, it is better to just set the number of perimeters to 20 such that the print consists entirely of perimeters.
+## Updates
+
+### 2022/08/06
+
+First published
+
+### 2025/08/03
+
+Added model with extra grip texture
